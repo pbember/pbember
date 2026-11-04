@@ -22,6 +22,7 @@ My rule of thumb is to keep the signal and cut whatever does not earn its place.
 
 - 📈 **[intent: trade](https://intent-trade.com)**: a calm trade journal for web, iOS, and Android
 - 🔋 **[MeterUsage](https://github.com/tilorahdotco/meterusage)**: a menu bar app for AI coding quota, on macOS with a Windows pre-release (open source, Electron beta)
+- ✉️ **[Emc²](https://github.com/collection-of-things/aggregate-mail)**: a desktop email client with AI sorting, mail encrypted on your machine, and an MCP server so agents can draft replies you review and send yourself (open source, Electron)
 - 🧸 **Yim Yim**: bilingual English and Thai play for families
 - 🌱 **Nwilla**: a zero shame habit companion
 - 🍜 **Shimai**: a simple point of sale for small food stands
