@@ -16,6 +16,7 @@ My rule of thumb is to keep the signal and cut whatever does not earn its place.
 
 ## ✦ What I'm working on
 
+- **[intersects](https://intersects.dev)**: a tool to help you build/test/ship 
 - 📈 **[intent: trade](https://intent-trade.com)**: a calm trade journal for web, iOS, and Android
 - 🔋 **[MeterUsage](https://github.com/tilorahdotco/meterusage)**: a menu bar app for AI coding quota, on macOS with a Windows pre-release (open source, Electron beta)
 
