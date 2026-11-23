@@ -1,4 +1,4 @@
-<img src="assets/ember.svg" alt="Ember, a terracotta clay mascot with a flame on its head" width="96" align="left">
+<img src="assets/ember.svg" alt="Ember, a terracotta clay mascot with a flame on its head" width="96" align="right">
 
 ✦ About me
 
