@@ -5,8 +5,6 @@
 Got a idea and don't know where to start, we can chat. 
 
 
-
-
 ## ✦ What I'm working on
 
 - **[intersects](https://intersects.dev)**: a tool to help you build/test/ship 
