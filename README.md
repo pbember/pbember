@@ -1,18 +1,11 @@
-<div align="center">
-
-<img src="assets/divider.svg" alt="" width="360">
-
-</div>
 ## ✦ About me
 
 <img src="assets/ember.svg" alt="Ember, a terracotta clay mascot with a flame on its head" width="96" align="left">
 
 Got a idea and don't know where to start, we can chat. 
-<div align="center">
 
-<img src="assets/divider.svg" alt="" width="360">
 
-</div>
+
 
 ## ✦ What I'm working on
 
