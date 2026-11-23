@@ -17,14 +17,8 @@ My rule of thumb is to keep the signal and cut whatever does not earn its place.
 ## ✦ What I'm working on
 
 - **[intersects](https://intersects.dev)**: a tool to help you build/test/ship 
-- 📈 **[intent: trade](https://intent-trade.com)**: a calm trade journal for web, iOS, and Android
-- 🔋 **[MeterUsage](https://github.com/tilorahdotco/meterusage)**: a menu bar app for AI coding quota, on macOS with a Windows pre-release (open source, Electron beta)
-
-More about the studio lives at [tilorah.co](https://tilorah.co).
-
-## ✦ Things I reach for
-
-`Swift` &nbsp; `React Native` &nbsp; `Expo` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `Supabase`
+- **[intent: trade](https://intent-trade.com)**: a calm trade journal for web, iOS, and Android
+- **[MeterUsage](https://github.com/tilorahdotco/meterusage)**: a menu bar app for AI coding quota, on macOS with a Windows pre-release (open source, Electron beta)
 
 ## ✦ Say hello
 
