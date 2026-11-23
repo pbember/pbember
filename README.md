@@ -4,13 +4,8 @@
 
 ## ✦ About me
 
-<img src="assets/ember.svg" alt="Ember, a terracotta clay mascot with a flame on its head" width="96" align="right">
-
-I'm PB. I design and build software that stays out of your way:
-mobile apps, a macOS utility, and a few small web tools.
-
-I run **[Tilorah](https://tilorah.co)**, a small independent software studio.
-My rule of thumb is to keep the signal and cut whatever does not earn its place.
+<img src="assets/ember.svg" alt="Ember, a terracotta clay mascot with a flame on its head" width="96" align="left">
+Got a idea and don't know where to start, we can chat. 
 
 <br clear="right">
 
