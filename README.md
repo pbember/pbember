@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="hi, I'm PB. I build calm, focused software." width="100%">
-
-<img src="assets/divider.svg" alt="" width="360">
-
 </div>
 
 ## ✦ About me
