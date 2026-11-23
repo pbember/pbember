@@ -1,13 +1,8 @@
-<div align="center">
-
-</div>
-
 ## ✦ About me
 
 <img src="assets/ember.svg" alt="Ember, a terracotta clay mascot with a flame on its head" width="96" align="left">
 
 Got a idea and don't know where to start, we can chat. 
-
 
 ## ✦ What I'm working on
 
