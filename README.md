@@ -8,7 +8,6 @@
 
 Got a idea and don't know where to start, we can chat. 
 
-<br clear="right">
 
 ## ✦ What I'm working on
 
