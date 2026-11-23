@@ -1,9 +1,5 @@
 <img src="assets/ember.svg" alt="Ember, a terracotta clay mascot with a flame on its head" width="96" align="right">
 
-✦ About me
-
-Got a idea and don't know where to start, we can chat. 
-
 ✦ What I'm working on
 
 - **[intersects](https://intersects.dev)**: a tool to help you build/test/ship 
