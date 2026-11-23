@@ -1,17 +1,16 @@
 <img src="assets/ember.svg" alt="Ember, a terracotta clay mascot with a flame on its head" width="96" align="left">
 
-## ✦ About me
+✦ About me
 
 Got a idea and don't know where to start, we can chat. 
 
-##
-## ✦ What I'm working on
+✦ What I'm working on
 
 - **[intersects](https://intersects.dev)**: a tool to help you build/test/ship 
 - **[intent: trade](https://intent-trade.com)**: a calm trade journal for web, iOS, and Android
 - **[MeterUsage](https://github.com/tilorahdotco/meterusage)**: a menu bar app for AI coding quota, on macOS with a Windows pre-release (open source, Electron beta)
 
-## ✦ Say hello
+✦ Say hello
 
 - ✉ [hello@tilorah.co](mailto:hello@tilorah.co)
 - ✦ [@PBAuren9](https://x.com/PBAuren9) on X
